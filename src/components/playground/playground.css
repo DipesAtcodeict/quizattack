@@ -1,0 +1,44 @@
+.playground {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(97, 122, 122);
+    margin-top: 1rem;
+    padding: 2rem;
+}
+
+.question {
+    color: rgb(43, 38, 38);
+    font-size: 2rem;
+    font-family: 'Patua One', cursive;
+}
+
+.options {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1.4rem;
+    padding: 1rem;
+}
+
+.options div {
+    margin: 1rem;
+}
+
+.score {
+    color: rgb(43, 38, 38);
+    font-family: 'Patua One', cursive;
+    font-size: 2rem;
+}
+
+.choose {
+    background-color: rgb(206, 202, 202);
+    border-radius: 8px;
+    box-sizing: border-box;
+    cursor: pointer;
+    padding: 0.3rem;
+}
+
+.choose:hover {
+    background-color: coral;
+    color: green;
+}

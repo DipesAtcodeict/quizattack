@@ -1,0 +1,17 @@
+{
+    "l1": {
+       "q": "Who is the current president of America?",
+       "o": ["Barack Obama", "Donald Trump", "Nelson Mandela", "Lionel Messi"],
+       "a": "Donald Trump"
+    },
+    "l2": {
+        "q": "Which club does Cristiano Ronaldo play for?",
+        "o": ["Real Madrid", "Juventus", "Manchester United", "Barcelona"],
+        "a": "Juventus"
+     },
+     "l3": {
+      "q": "Which club does Lionel Messi play for?",
+      "o": ["Man city", "Chlelsea", "Manchester United", "Barcelona"],
+      "a": "Barcelona"
+   }
+}
